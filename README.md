@@ -1,8 +1,4 @@
 # Face-Recognition-with-voice
-
-# Face recognition concierge to announce new visitors
-This shows you how to train a facial recognition model to identify visitors says Hello.
-
 ## Tutorial Requirements
 - Python version 3.8.10
 - A webcam (your laptop’s built-in webcam or an external one)
