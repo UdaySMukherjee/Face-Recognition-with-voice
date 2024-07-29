@@ -7,7 +7,7 @@
 Clone this example project, and change into the directory from the command line.
 
      git clone https://github.com/UdaySMukherjee/Face-Recognition-with-voice.git
-     cd facial-recognition
+     cd Face-Recognition-with-voice
 
 Create a virtual environment called `venv`. Activate the virtual environment, and then install the required Python packages inside the virtual environment. If you’re on Unix or Mac operating systems, enter these commands in a terminal.
 
